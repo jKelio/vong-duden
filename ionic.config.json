@@ -1,0 +1,8 @@
+{
+  "name": "vong-duden",
+  "app_id": "867140a8",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
